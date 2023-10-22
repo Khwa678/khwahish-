@@ -1,3 +1,3 @@
 # khwahish-
 this is my first github repository .
-author - khwahish seth ,
+author - khwahish seth .
